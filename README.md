@@ -1,4 +1,3 @@
-# Salary_Project
 # Employee Salary Prediction using Machine Learning
 
 This project aims to predict whether an individual earns more or less than $50,000 per year based on census data. This is a classic binary classification problem in machine learning.
